@@ -1,5 +1,5 @@
 import { FaBook } from "react-icons/fa";
-const Blog = ({blog , handleAddToBookmark}) => {
+const Blog = ({blog , handleAddToBookmark , handleReadingTime}) => {
     const {id,reading_time,author_pic,author_name,title,hashtags,posted_date,cover_img} = blog ;
     return(
         <section className="my-5 mr-6 px-5 py-4 bg-gray-100 rounded-xl">
@@ -25,7 +25,7 @@ const Blog = ({blog , handleAddToBookmark}) => {
                     hashtags.map((i , idx)=><span key={idx}> {i}</span>)
                 }
             </p>
-            <a href="#" className="text-blue-500 underline">Mark as read</a>
+            <a onClick={()=>handleReadingTime(reading_time)} className="cursor-pointer text-blue-500 underline">Mark as read</a>
         </section>
     )
 }
