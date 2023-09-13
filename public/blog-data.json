@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://img.freepik.com/free-photo/view-pizza-wooden-background_23-2148601580.jpg?w=900&t=st=1694533290~exp=1694533890~hmac=fd656df4c782a7ab275b8c633f0426de6ccf04f77c5c65130bb614bdec034228",
+      "reading_time": 5,
+      "author_pic": "https://img.freepik.com/free-photo/portrait-optimistic-businessman-formalwear_1262-3600.jpg?w=900&t=st=1694533650~exp=1694534250~hmac=7336dbfc31336f480a3f45217ad90d275b5933c873a8319e2726d1c4961c708f",
+      "author_name": "Alice Johnson",
+      "title": "10 Delicious Recipes for Homemade Pizza",
+      "hashtags": ["#Cooking", "#Recipes", "#Pizza"],
+      "posted_date": "10 May 2023"
+    },
+    {
+      "id": 2,
+      "cover_img": "https://img.freepik.com/free-photo/side-view-specialized-photographers-working-studio_23-2150247225.jpg?w=900&t=st=1694533395~exp=1694533995~hmac=cd1d58b40a0c1889d0346189c781c78c2308f2ff2a2be3205e387a8ccb9c7056",
+      "reading_time": 8,
+      "author_pic": "https://img.freepik.com/free-photo/smiling-happy-businessman-looking-camera_23-2148113005.jpg?w=900&t=st=1694533648~exp=1694534248~hmac=44ed2651a5bd8dddfbf5b0a646cc9a0e04ea4ff9ccab731900d54ce526aa2e6d",
+      "author_name": "John Doe",
+      "title": "Mastering the Art of Photography: A Beginner's Guide",
+      "hashtags": ["#Photography", "#Tips", "#Beginners"],
+      "posted_date": "09 May 2023"
+    },
+    {
+      "id": 3,
+      "cover_img": "https://img.freepik.com/free-photo/happy-businessman-having-best-moments-office-desk_114579-28351.jpg?w=900&t=st=1694533487~exp=1694534087~hmac=d28e257a675468ff1d27b8eba9fb2ca8c211cd123b845a9166ba7e14991c5698",
+      "reading_time": 10,
+      "author_pic": "https://img.freepik.com/free-photo/business-man-curly-cute-handsome-guy-black-suit-close-up-smiling_140725-162638.jpg?w=900&t=st=1694533624~exp=1694534224~hmac=3985dd181d2d7e3d7a109eebf19f21fd62e1767897c60356f0d20ecaaaf08877",
+      "author_name": "Eva Brown",
+      "title": "Achieving Work-Life Balance in a Busy World",
+      "hashtags": ["#WorkLifeBalance", "#Wellness", "#Tips"],
+      "posted_date": "08 May 2023"
+    },
+    {
+      "id": 4,
+      "cover_img": "https://img.freepik.com/free-photo/top-view-passport-with-money-workspace-tourism-concept_1150-6877.jpg?w=900&t=st=1694533546~exp=1694534146~hmac=b3b607ee7f66e08241a73a3e1f31212ced4aba21289f6ec3db286fb4eb435c4a",
+      "reading_time": 7,
+      "author_pic": "https://img.freepik.com/free-photo/portrait-young-confident-businessman-wearing-glasses_158595-5360.jpg?w=900&t=st=1694533619~exp=1694534219~hmac=605c17ea98552744f77da8bf27b234c4bac68d47a8c064be4fc3e4b3ed56b4d3",
+      "author_name": "Bob Wilson",
+      "title": "Traveling on a Budget: Tips for Your Next Adventure",
+      "hashtags": ["#Travel", "#Adventure", "#Budget"],
+      "posted_date": "07 May 2023"
+    }
+  ]
+  
