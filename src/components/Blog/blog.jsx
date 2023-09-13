@@ -25,7 +25,7 @@ const Blog = ({blog , handleAddToBookmark , handleReadingTime}) => {
                     hashtags.map((i , idx)=><span key={idx}> {i}</span>)
                 }
             </p>
-            <a onClick={()=>handleReadingTime(reading_time)} className="cursor-pointer text-blue-500 underline">Mark as read</a>
+            <a onClick={()=>handleReadingTime(id,reading_time)} className="cursor-pointer text-blue-500 underline">Mark as read</a>
         </section>
     )
 }
