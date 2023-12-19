@@ -1,7 +1,12 @@
 import { useEffect } from "react";
 import { useState } from "react"
 import Blog from "../Blog/blog";
-
+console.log('1')
+console.log('1')
+console.log('1')
+console.log('1')
+console.log('1')
+console.log('1')
 export default function Blogs ({handleAddToBookmark ,handleReadingTime}) {
     const [blogs , setBlogs ] = useState([])
     useEffect(()=>{fetch('blog-data.json').then(res=>res.json()).then(data=> setBlogs(data));},[])
